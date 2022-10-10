@@ -7,11 +7,10 @@
 length of st
         ring */
  int func(text){
- return 0;
+ return text.length;
  }        
 void main(){    
-String s;
-s = ("python");
-print(s.length);
+  
+print(func('python'));
   // write your code here
 }
