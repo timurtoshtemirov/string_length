@@ -7,6 +7,8 @@
         length of string */
 
 void main() {
-  print('rfrr');
+String s;
+s = ("python");
+print(s.length);
   // write your code here
 }
