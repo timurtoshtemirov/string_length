@@ -4,9 +4,12 @@
     Args:
         a: string
     Returns:
-        length of string */
-
-void main() {
+length of st
+        ring */
+ int func(text){
+ return 0;
+ }        
+void main(){    
 String s;
 s = ("python");
 print(s.length);
