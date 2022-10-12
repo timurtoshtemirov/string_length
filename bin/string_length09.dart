@@ -6,7 +6,10 @@
         s2: str
     Returns:
         str: answer
-     */
+     */String func(String s1,String s2){
+      return s1 + s2;
+      }
 void main() {
+  print(func('codeschool','dart'));
   // write your code here
-}
+} 
