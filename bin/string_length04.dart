@@ -5,7 +5,11 @@
         s: string
     Returns:
         string
-*/
+*/int func(S){
+  return S .length;
+}
 void main() {
+
+ print("*" * "code" .length);
   // write your code here
 }
