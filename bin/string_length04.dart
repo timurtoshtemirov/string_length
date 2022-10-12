@@ -5,11 +5,10 @@
         s: string
     Returns:
         string
-*/int func(S){
-  return S .length;
+*/String func(String s){
+  return '*' *s.length;
 }
 void main() {
-
- print("*" * "code" .length);
+ print(func("code"));
   // write your code here
 }
